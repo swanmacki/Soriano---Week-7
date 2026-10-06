@@ -1,0 +1,4 @@
+Student: Leeroy Soriano
+Attendance: 93 %
+GWA: 96.70333333333333
+Did Leeroy Soriano Passed? true
