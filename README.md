@@ -1,4 +1,5 @@
 Name: Mark Leeroy M. Soriano
+
 Section: BSIT 3.3
 
 Overview: This program calculates student grades across the Prelim, Midterm, and Final terms.
